@@ -6,10 +6,6 @@ A premium cryptocurrency portfolio tracker built with Flutter. Features a glassm
 ![Dart Version](https://img.shields.io/badge/Dart-3.0+-00FF94?style=for-the-badge&logo=dart)
 ![License](https://img.shields.io/badge/License-MIT-00FF94?style=for-the-badge)
 
-&lt;p align="center"&gt;
-  &lt;img src="screenshot/screen.png" width="300" alt="Vault App Screenshot"/&gt;
-&lt;/p&gt;
-
 ## ✨ Features
 
 - 🎨 **Glassmorphic UI** - Dark ethereal theme with backdrop blur effects
