@@ -2,17 +2,15 @@
 
 A premium cryptocurrency portfolio tracker built with Flutter. Features a glassmorphic dark UI, real-time price tracking, and interactive charts.
 
-![Flutter Version](https://img.shields.io/badge/Flutter-3.0+-00FF94?style=for-the-badge&logo=flutter)
-![Dart Version](https://img.shields.io/badge/Dart-3.0+-00FF94?style=for-the-badge&logo=dart)
-![License](https://img.shields.io/badge/License-MIT-00FF94?style=for-the-badge)
+![Flutter Version](https://img.shields.io/badge/Flutter-3.0+-00FF94?style=for-the-badge&logo=flutter )
+![Dart Version](https://img.shields.io/badge/Dart-3.0+-00FF94?style=for-the-badge&logo=dart )
+![License](https://img.shields.io/badge/License-MIT-00FF94?style=for-the-badge )
 
 ![Vault App Screenshot](screenshot/screen.png)
 
-## 🎥 Demo Video
+## 🎥 Watch Demo
 
-[![Watch Demo on YouTube](https://youtube.com/shorts/nsex3oUQpGE?feature=share)](https://youtube.com/shorts/nsex3oUQpGE?feature=share)
-
-Click the image above to watch the demo video on YouTube.
+▶️ [Watch on YouTube](https://youtube.com/shorts/nsex3oUQpGE?feature=share)
 
 ## ✨ Features
 
@@ -35,7 +33,7 @@ Click the image above to watch the demo video on YouTube.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vault-crypto-flutter.git
+git clone https://github.com/Aamirsiddique09/vault-crypto-flutter.git 
 
 # Navigate to project
 cd vault-crypto-flutter
