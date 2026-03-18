@@ -10,7 +10,7 @@ A premium cryptocurrency portfolio tracker built with Flutter. Features a glassm
 
 ## 🎥 Demo Video
 
-[![Watch Demo on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/nsex3oUQpGE?feature=share)
+[![Watch Demo on YouTube](https://youtube.com/shorts/nsex3oUQpGE?feature=share)](https://youtube.com/shorts/nsex3oUQpGE?feature=share)
 
 Click the image above to watch the demo video on YouTube.
 
