@@ -7,7 +7,7 @@ A premium cryptocurrency portfolio tracker built with Flutter. Features a glassm
 ![License](https://img.shields.io/badge/License-MIT-00FF94?style=for-the-badge)
 
 &lt;p align="center"&gt;
-  &lt;img src="screenshots/hero.png" width="300" alt="Vault App Screenshot"/&gt;
+  &lt;img src="screenshot/hero.png" width="300" alt="Vault App Screenshot"/&gt;
 &lt;/p&gt;
 
 ## ✨ Features
